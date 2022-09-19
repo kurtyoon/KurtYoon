@@ -7,4 +7,6 @@
 
 [![KurtYoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KurtYoon)](https://github.com/KurtYoon/github-readme-stats)
 
+![KurtYoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kurtyoon)](https://solved.ac/kurtyoon/)
