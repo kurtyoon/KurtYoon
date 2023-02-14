@@ -6,4 +6,6 @@
 
 ![KurtYoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KurtYoon&show_icons=true&theme=dark)
 
+ <img src="http://mazandi.herokuapp.com/api?handle={kurtyoon}&theme=warm"/>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kurtyoon)](https://solved.ac/kurtyoon/)
