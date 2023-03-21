@@ -19,6 +19,6 @@
 
 <h3 align="center">My Git View Count</h3>
 <p align="center">
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKurtYoon&count_bg=%23BEBBBB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKurtYoon%2Fhit-counter&count_bg=%23484947&title_bg=%23A29191&icon=github.svg&icon_color=%23E7E7E7&title=View&edge_flat=false"/></a>               
 </p>
   
