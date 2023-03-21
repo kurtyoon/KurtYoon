@@ -15,6 +15,11 @@
   </a>
 </p>
 
+<h3 align="center">My Solved.ac Tier</h3>
+  <a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=kurtyoon)](https://solved.ac/kurtyoon/"/>
+<p align="center">
+  
+</p>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kurtyoon)](https://solved.ac/kurtyoon/)
 
 <h3 align="center">My Git View Count</h3>
