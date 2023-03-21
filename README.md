@@ -18,7 +18,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kurtyoon&tag=${태그}&color=dark)](${링크 url})
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kurtyoon&tag=${태그}&color=dark)]((https://velog.io/@kurtyoon))
   
 </div>
 
