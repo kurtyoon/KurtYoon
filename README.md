@@ -18,7 +18,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kurtyoon&tag=${태그}&color=dark)]((https://velog.io/@kurtyoon))
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kurtyoon/개발자-기술면접-준비)](https://github.com/eungyeole/velog-readme-stats)
   
 </div>
 
