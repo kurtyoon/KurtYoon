@@ -17,7 +17,7 @@
 
 <h3 align="center">My Solved.ac Tier</h3>
 <p align="center">
-  <a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=kurtyoon)](https://solved.ac/kurtyoon/"/>
+  <a href="https://mazassumnida.wtf/api/v2/generate_badge?boj=kurtyoon)](https://solved.ac/kurtyoon/"/>
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kurtyoon)](https://solved.ac/kurtyoon/)
