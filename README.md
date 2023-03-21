@@ -22,19 +22,12 @@
   
 </div>
 
-
+<h3 align="center">My Solved.ac Tier</h3>
 <div align="center" style="text-align:center">
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kurtyoon)](https://solved.ac/kurtyoon/)
   
 </div>
-
-<!-- <h3 align="center">My Solved.ac Tier</h3>
-<p align="center">
-  <a href="https://mazassumnida.wtf/api/v2/generate_badge?boj=kurtyoon)](https://solved.ac/kurtyoon/"/>
-</p>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kurtyoon)](https://solved.ac/kurtyoon/) -->
 
 <h3 align="center">My Git View Count</h3>
 <p align="center">
