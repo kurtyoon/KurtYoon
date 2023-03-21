@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=50&animation=twinkling)
 
-
-
 <h3 align="center">My Most Used Languages</h3>
 <p align="center">
   <a href="https://github.com/KurtYoon">
@@ -14,13 +12,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=KurtYoon&hide=false&hide_title=false&show_icons=false&include_all_commits=true&theme=nord" />
   </a>
 </p>
-
-
-<div align="center" style="text-align:center">
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kurtyoon/개발자-기술면접-준비)](https://github.com/eungyeole/velog-readme-stats)
-  
-</div>
 
 <h3 align="center">My Solved.ac Tier</h3>
 <div align="center" style="text-align:center">
