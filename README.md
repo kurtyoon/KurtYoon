@@ -6,6 +6,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurtYoon&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=false" />
   </a>
 </p>
+
 <h3 align="center">My Git Stats</h3>
 <p align="center">
   <a href="https://github.com/KurtYoon">
