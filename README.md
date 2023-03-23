@@ -25,3 +25,7 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKurtYoon%2Fhit-counter&count_bg=%23484947&title_bg=%23A29191&icon=github.svg&icon_color=%23E7E7E7&title=View&edge_flat=false"/></a>               
 </p>
   
+<h3 align="center">My site</h3>
+<p align="center">
+  <a href="https://woolly-hair-56e.notion.site/HELLO-D-076fa2f58d7246ac9fcf52a9012ff4a0">노션</a>
+</p>
