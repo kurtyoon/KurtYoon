@@ -29,4 +29,5 @@
 <p align="center">
   <a href="https://woolly-hair-56e.notion.site/HELLO-D-076fa2f58d7246ac9fcf52a9012ff4a0"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
   <a href="https://velog.io/@kurtyoon"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
+  <a href="https://github.com/KurtYoon"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
