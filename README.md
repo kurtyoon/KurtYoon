@@ -33,4 +33,4 @@
   <a href="https://github.com/KurtYoon"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=50&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=flat&color=auto&height=200&section=header&fontSize=50&animation=twinkling)
