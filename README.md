@@ -27,5 +27,5 @@
   
 <h3 align="center">My site</h3>
 <p align="center">
-  <a href="https://woolly-hair-56e.notion.site/HELLO-D-076fa2f58d7246ac9fcf52a9012ff4a0">노션</a>
+  <a href="https://woolly-hair-56e.notion.site/HELLO-D-076fa2f58d7246ac9fcf52a9012ff4a0"><img src="https://img.shields.io/static/v1?message=notion&color=lightgrey"></a>
 </p>
