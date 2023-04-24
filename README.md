@@ -3,14 +3,14 @@
 <h3 align="center">My Most Used Languages</h3>
 <p align="center">
   <a href="https://github.com/KurtYoon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurtYoon&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=false" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurtYoon&hide=jupyternotebook&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=false" />
   </a>
 </p>
 
 <h3 align="center">My Git Stats</h3>
 <p align="center">
   <a href="https://github.com/KurtYoon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KurtYoon&hide=Jupyter Notebook&hide_title=false&show_icons=false&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KurtYoon&hide_title=false&show_icons=false&include_all_commits=true&theme=nord" />
   </a>
 </p>
 
