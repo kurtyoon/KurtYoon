@@ -10,7 +10,7 @@
 <h3 align="center">My Git Stats</h3>
 <p align="center">
   <a href="https://github.com/KurtYoon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KurtYoon&hide=false&hide_title=false&show_icons=false&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KurtYoon&hide=Jupyter Notebook&hide_title=false&show_icons=false&include_all_commits=true&theme=nord" />
   </a>
 </p>
 
