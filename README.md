@@ -3,7 +3,7 @@
 <h3 align="center">My Most Used Languages</h3>
 <p align="center">
   <a href="https://github.com/KurtYoon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurtYoon&hide=jupyternotebook&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=false" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurtYoon&hide=jupyter notebook&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=false" />
   </a>
 </p>
 
