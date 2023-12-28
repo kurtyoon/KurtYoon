@@ -14,4 +14,4 @@
 - `Spring boot` `FastAPI` `React`
 - `Data Analysis` `ETL`
 - `MySQL` `MongoDB` `PostgreSQL`
-- `AWS` `GCP`
+- `AWS` `GCP` `Docker`
