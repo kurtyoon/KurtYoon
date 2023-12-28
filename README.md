@@ -1,34 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=50&animation=twinkling)
+# Yun-Changseop (Kurtyoon) 입니다.
 
-<h3 align="center">My Most Used Languages</h3>
-<p align="center">
-  <a href="https://github.com/KurtYoon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurtYoon&exclude_repo=MovieLens_1M_analysis_and_visualize&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord" />
-  </a>
-</p>
+새로운 기술을 배우는 것을 즐기며 적용합니다.
 
-<h3 align="center">My Git Stats</h3>
-<p align="center">
-  <a href="https://github.com/KurtYoon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KurtYoon&hide_title=false&show_icons=false&include_all_commits=true&theme=nord" />
-  </a>
-</p>
+왜? 라는 질문에 답하기 위해 노력합니다.
 
-<h3 align="center">My Solved.ac Tier</h3>
-<div align="center" style="text-align:center">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kurtyoon)](https://solved.ac/kurtyoon/)
-  
-</div>
+- [Blog [blog.kurtyoon.me]](https://blog.kurtyoon.me/)
+- [LinkedIn [Yun Changseop LinkedIn]](http://www.linkedin.com/in/%EC%B0%BD%EC%84%AD-%EC%9C%A4-225604291)
+- [Email [dev.kurtyoon@gmail.com]](mailto:dev.kurtyoon@gmail.com)
 
-<h3 align="center">My Git View Count</h3>
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKurtYoon%2Fhit-counter&count_bg=%23484947&title_bg=%23A29191&icon=github.svg&icon_color=%23E7E7E7&title=View&edge_flat=false"/></a>               
-</p>
-  
-<h3 align="center">My site</h3>
-<p align="center">
-  <a href="https://kurtyoon.notion.site/HELLO-D-076fa2f58d7246ac9fcf52a9012ff4a0"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
-  <a href="https://velog.io/@kurtyoon"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
-  <a href="https://github.com/KurtYoon"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/></a>
-</p>
+## Skills
+
+- `Java` `Python` `JavaScript` `TypeScript`
+- `Spring boot` `FastAPI` `React`
+- `Data Analysis` `ETL`
+- `MySQL` `MongoDB` `PostgreSQL`
+- `AWS` `GCP`
