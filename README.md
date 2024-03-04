@@ -11,7 +11,7 @@
 ## Skills
 
 - `Java` `Python` `JavaScript` `TypeScript`
-- `Spring boot` `FastAPI` `React` `Fultter`
+- `Spring boot` `FastAPI` `React` `Flutter`
 - `Data Analysis` `ETL`
 - `MySQL` `MongoDB` `PostgreSQL`
 - `AWS` `GCP` `Docker`
