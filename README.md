@@ -5,6 +5,7 @@
 왜? 라는 질문에 답하기 위해 노력합니다.
 
 - [Blog [blog.kurtyoon.me]](https://blog.kurtyoon.me/)
+- [Portfolio [portfolio.kurtyoon.me]](https://portfolio.kurtyoon.me/)
 - [LinkedIn [Yun Changseop LinkedIn]](http://www.linkedin.com/in/%EC%B0%BD%EC%84%AD-%EC%9C%A4-225604291)
 - [Email [dev.kurtyoon@gmail.com]](mailto:dev.kurtyoon@gmail.com)
 
