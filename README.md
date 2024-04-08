@@ -16,5 +16,3 @@
 - `Data Analysis` `ETL`
 - `MySQL` `MongoDB` `PostgreSQL`
 - `AWS` `GCP` `Docker`
-
-![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtyoon&theme=vue)
