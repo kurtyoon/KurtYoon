@@ -16,6 +16,3 @@
 - `Data Analysis` `ETL`
 - `MySQL` `MongoDB` `PostgreSQL`
 - `AWS` `GCP` `Docker`
-
-### MY Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtyoon&layout=compact&theme=dracula)](https://github.com/kurtyoon)
