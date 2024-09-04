@@ -16,3 +16,7 @@
 - `Data Analysis` `ETL`
 - `MySQL` `MongoDB` `PostgreSQL`
 - `AWS` `GCP` `Docker`
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/kurtyoon"/>
+</a>
