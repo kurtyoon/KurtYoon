@@ -6,8 +6,8 @@
 
 - [Blog [blog.kurtyoon.me]](https://blog.kurtyoon.me/)
 - [Portfolio [portfolio.kurtyoon.me]](https://portfolio.kurtyoon.me/)
-- [LinkedIn [Yun Changseop LinkedIn]](http://www.linkedin.com/in/%EC%B0%BD%EC%84%AD-%EC%9C%A4-225604291)
-- [Email [dev.kurtyoon@gmail.com]](mailto:dev.kurtyoon@gmail.com)
+- [LinkedIn [Yun Changseop LinkedIn]](https://www.linkedin.com/in/changseop-yun-225604291)
+- [Email [kr.dev.kurtyoon@gmail.com]](mailto:kr.dev.kurtyoon@gmail.com)
 
 ## Skills
 
