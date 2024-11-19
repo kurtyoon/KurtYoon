@@ -4,7 +4,7 @@
 
 왜? 라는 질문에 답하기 위해 노력합니다.
 
-- [Blog](https://blog.kurtyoon.me)
+- [Blog [Devlog]](https://blog.kurtyoon.me)
 - [LinkedIn [Yun Changseop LinkedIn]](https://www.linkedin.com/in/changseop-yun-225604291)
 - [Email [kr.dev.kurtyoon@gmail.com]](mailto:kr.dev.kurtyoon@gmail.com)
 
