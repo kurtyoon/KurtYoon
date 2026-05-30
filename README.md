@@ -1,6 +1,7 @@
 # Yun-Changseop (Kurtyoon)
 
-Infra Engineer focused on Cloud Infrastructure and Automation.<br>
+Infra Engineer focused on Cloud Infrastructure and Automation.
+
 I enjoy learning new technologies and applying them to real systems.<br>
 I always try to understand the “why” behind the technologies I use.
 
