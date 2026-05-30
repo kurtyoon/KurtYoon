@@ -1,17 +1,13 @@
-# Yun-Changseop (Kurtyoon) 입니다.
+# Yun-Changseop (Kurtyoon), an Infra Engineer
 
-새로운 기술을 배우는 것을 즐기며 적용합니다.
+I enjoy learning new technologies and applying them to real systems.
 
-왜? 라는 질문에 답하기 위해 노력합니다.
+I always try to understand the "why" behind the technologies I use.
 
-- [Blog [Devlog]](https://kurtyoon.me)
+I am currently interested in Cloud Infrastructure, OpenStack, Ceph, Kubernetes, GitOps, and Infrastructure as Code.
+
+I am also exploring how LLM agents can support SRE automation across operations, troubleshooting, and incident response.
+
+- [Tech Blog [Devlog]](https://kurtyoon.me)
 - [LinkedIn [Yun Changseop LinkedIn]](https://www.linkedin.com/in/changseop-yun-225604291)
 - [Email [kr.dev.kurtyoon@gmail.com]](mailto:kr.dev.kurtyoon@gmail.com)
-
-## Skills
-
-- `Java` `Python` `JavaScript` `TypeScript`
-- `Spring boot` `FastAPI` `React` `Flutter`
-- `Data Analysis` `ETL`
-- `MySQL` `MongoDB` `PostgreSQL`
-- `AWS` `GCP` `Docker`
