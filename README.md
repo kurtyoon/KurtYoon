@@ -10,6 +10,6 @@ Currently focused on **Compute** and **Storage** in Private Cloud environments, 
 Also interested in Kubernetes, GitOps, Infrastructure as Code,<br>
 and how LLM agents can support SRE automation across operations, troubleshooting, and incident response.
 
-* [Tech Blog [Devlog]](https://kurtyoon.me)
+* [Tech Blog [Devlog]](https://blog.somnitor.dev)
 * [LinkedIn [Yun Changseop LinkedIn]](https://www.linkedin.com/in/changseop-yun-225604291)
 * [Email [kr.dev.kurtyoon@gmail.com]](mailto:kr.dev.kurtyoon@gmail.com)
